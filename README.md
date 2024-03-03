@@ -2,7 +2,7 @@
 
 ## Site Link
 
-[https://susanavand.github.io/dickinson-scholar-metadata-profile/](https://susanavand.github.io/dickinson-scholar-metadata-profile/)
+[https://susanavand.github.io/](https://susanavand.github.io/)
 
 ## Overview
 
